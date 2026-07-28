@@ -9,6 +9,12 @@ Welcome to my GitHub profile! Here you can find a showcase of my technical proje
 
 * **[SurvivorsOfTheHollow](https://github.com/victorandrei03/Survivors-of-the-Hollow)** – A survival action game developed in C++ and Unreal Engine 5. Features dynamic enemy wave spawning, custom player abilities, combat mechanics, AI behavior trees, and UI systems.
   * **Tech:** C++, Unreal Engine 5, Blueprints, Game AI, UI Systems.
+ 
+* **[Drone Racing Game](https://github.com/victorandrei03/Drone-Racing)** – An interactive 3D Drone Racing Game built with Modern OpenGL, featuring procedural terrain heightmaps, custom GLSL vertex/fragment noise shaders, 3D AABB & Ellipsoid collision detection, dynamic minimap rendering, and a time-attack checkpoint navigation system.
+  * **Tech:** C++, Modern OpenGL, GLSL Shaders, Procedural Noise, 3D Collision Detection, `gfx-framework`.
+
+* **[Tank-Wars](https://github.com/victorandrei03/Tank-Wars)** – A 2D real-time interactive artillery game featuring procedurally generated deformable terrain (sine-wave synthesis), dynamic impact craters, landslide slope smoothing, ballistic projectile trajectory preview, and 2D matrix shear transformations.
+  * **Tech:** C++, OpenGL, Ballistic Physics, Procedural Deformable Terrain, 2D Shear Transformations.
 
 * **[Pico-checkers](https://embedded-rust-101.wyliodrin.com/docs/acs_cc/project/2025/victor_andrei.preda)** – A hardware-based online multiplayer Checkers game built on two Raspberry Pi Pico 2W microcontrollers communicating via Wi-Fi[cite: 1]. Developed in Rust (`no_std`) using the `Embassy` async runtime, featuring real-time SPI LCD rendering and custom Flash memory storage[cite: 1].
   * **Tech:** Rust, Embassy Async, CYW43 Wi-Fi, SPI LCD (ILI9341), Embedded Graphics, Flash Memory[cite: 1].
@@ -25,6 +31,16 @@ Welcome to my GitHub profile! Here you can find a showcase of my technical proje
 
 * **[Mini-LibC](https://github.com/victorandrei03/Mini-LibC)** – A lightweight, zero-dependency C standard library replacement (`mini-libc`) built directly on top of `x86_64` Linux system calls[cite: 8]. Implemented core functionality for string manipulation, memory operations (`memcpy`, `memset`), POSIX file I/O, and memory mapping[cite: 8].
   * **Tech:** C, x86_64 Assembly, Linux Syscalls, POSIX I/O, Memory Management[cite: 8].
+
+---
+
+## ☁️ Cloud-Native, Microservices & Web Development
+
+* **[Cloud-Native Collaborative Shopping List System](https://github.com/shopping-list-cloud-native)** – A distributed, cloud-native collaborative platform built on a microservices architecture deployed on Docker Swarm. Features JWT authentication, shared shopping list management, automated budget/expense threshold calculation, real-time modification notifications, and data-layer isolation using custom Docker network segmentation.
+  * **Tech:** Microservices, Docker Swarm, Kong API Gateway, PostgreSQL, Portainer, Prometheus & Grafana, REST APIs.
+
+* **[RoRoute - Smart Travel & Itinerary Planner](https://github.com/victorandrei03/RoRoute)** – An interactive web application for planning and optimizing vacation itineraries across Romania. Features an interactive attractions map with rich pop-ups, custom user preference surveying, backend route optimization logic, attraction rating/review workflows, and real-time database synchronization.
+  * **Tech:** Angular, Flask (Python), Firebase Realtime Database, ArcGIS JavaScript API, ArcGIS Online, `bcrypt`.
 
 ---
 
