@@ -100,5 +100,5 @@ Welcome to my GitHub profile! Here you can find a showcase of my technical proje
 ---
 
 📬 **How to reach me:**
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/victor-preda-83ab4b280/)
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/victor-preda-83ab4b280/)
 - **Email:** victorandrei05@gmail.com
